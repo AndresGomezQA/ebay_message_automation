@@ -3,7 +3,7 @@ Ebay automation for send automatic message to all buyers
 - For the ones with an ebay shop it can be the case that you want to send some message to all your buyers
 - In this Python script selenium webdriver is used to so this automatically
 - The script iterates throuht all the sells in the las 90 days and sends a message to the buyer in each one
-- The message is a simple card in .png format that my daoughter draw in her table
+- The message is a simple card in .png format that my daoughter draw in her tablet to felicite Easter
   
 **TO BE DONE**
 - The login must be done manual as this requires to autetication mechanism that I still do not know how to do automatically
